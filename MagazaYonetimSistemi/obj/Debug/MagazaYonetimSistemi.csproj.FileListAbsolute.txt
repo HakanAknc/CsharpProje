@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\MagazaYonetimSistemi\bin\Debug\MagazaYonetimSistemi.exe.config
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\MagazaYonetimSistemi\bin\Debug\MagazaYonetimSistemi.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\MagazaYonetimSistemi\bin\Debug\MagazaYonetimSistemi.pdb
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\MagazaYonetimSistemi\obj\Debug\MagazaYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\MagazaYonetimSistemi\obj\Debug\MagazaYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\MagazaYonetimSistemi\obj\Debug\MagazaYonetimSistemi.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\MagazaYonetimSistemi\obj\Debug\MagazaYonetimSistemi.pdb

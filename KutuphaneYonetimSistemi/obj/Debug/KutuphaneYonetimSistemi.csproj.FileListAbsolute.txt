@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.exe.config
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\KutuphaneYonetimSistemi\bin\Debug\KutuphaneYonetimSistemi.pdb
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\KutuphaneYonetimSistemi\obj\Debug\KutuphaneYonetimSistemi.pdb

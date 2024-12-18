@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Proje1_AracKiralamaSistemi\obj\Debug\Proje1_AracKiralamaSistemi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Proje1_AracKiralamaSistemi\obj\Debug\Proje1_AracKiralamaSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Proje1_AracKiralamaSistemi\bin\Debug\Proje1_AracKiralamaSistemi.exe.config
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Proje1_AracKiralamaSistemi\bin\Debug\Proje1_AracKiralamaSistemi.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Proje1_AracKiralamaSistemi\bin\Debug\Proje1_AracKiralamaSistemi.pdb
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Proje1_AracKiralamaSistemi\obj\Debug\Proje1_AracKiralamaSistemi.exe
+C:\Users\Hakan Akıncı\source\repos\CSharpEgitimKampi\Proje1_AracKiralamaSistemi\obj\Debug\Proje1_AracKiralamaSistemi.pdb
