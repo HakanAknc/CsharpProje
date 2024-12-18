@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\BiletRezervasyonSistemi\bin\Debug\BiletRezervasyonSistemi.exe.config
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\BiletRezervasyonSistemi\bin\Debug\BiletRezervasyonSistemi.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\BiletRezervasyonSistemi\bin\Debug\BiletRezervasyonSistemi.pdb
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\BiletRezervasyonSistemi\obj\Debug\BiletRezervasyonSistemi.pdb
