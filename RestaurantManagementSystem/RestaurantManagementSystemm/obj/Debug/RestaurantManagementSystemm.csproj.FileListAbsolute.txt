@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\RestaurantManagementSystem\RestaurantManagementSystemm\bin\Debug\RestaurantManagementSystemm.exe.config
+C:\Users\Hakan Akıncı\source\repos\RestaurantManagementSystem\RestaurantManagementSystemm\bin\Debug\RestaurantManagementSystemm.exe
+C:\Users\Hakan Akıncı\source\repos\RestaurantManagementSystem\RestaurantManagementSystemm\bin\Debug\RestaurantManagementSystemm.pdb
+C:\Users\Hakan Akıncı\source\repos\RestaurantManagementSystem\RestaurantManagementSystemm\obj\Debug\RestaurantManagementSystemm.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\RestaurantManagementSystem\RestaurantManagementSystemm\obj\Debug\RestaurantManagementSystemm.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\RestaurantManagementSystem\RestaurantManagementSystemm\obj\Debug\RestaurantManagementSystemm.exe
+C:\Users\Hakan Akıncı\source\repos\RestaurantManagementSystem\RestaurantManagementSystemm\obj\Debug\RestaurantManagementSystemm.pdb
