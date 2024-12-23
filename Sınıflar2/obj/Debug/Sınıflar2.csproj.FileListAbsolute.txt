@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Sınıflar2\bin\Debug\Sınıflar2.exe.config
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Sınıflar2\bin\Debug\Sınıflar2.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Sınıflar2\bin\Debug\Sınıflar2.pdb
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Sınıflar2\obj\Debug\Sınıflar2.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Sınıflar2\obj\Debug\Sınıflar2.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Sınıflar2\obj\Debug\Sınıflar2.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Sınıflar2\obj\Debug\Sınıflar2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Menu\bin\Debug\Menu.exe.config
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Menu\bin\Debug\Menu.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Menu\bin\Debug\Menu.pdb
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Menu\obj\Debug\Menu.csproj.AssemblyReference.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Menu\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Menu\obj\Debug\Menu.exe
+C:\Users\Hakan Akıncı\source\repos\CsharpProje\Menu\obj\Debug\Menu.pdb
